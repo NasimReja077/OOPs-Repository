@@ -50,6 +50,10 @@ Works for CreditCard, PayPal, UPI, etc.
 Dependency injection: Interfaces allow mocking dependencies during unit testing.
 Example: A Logger interface allows swapping real logging with a MockLogger for testing.
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/a9812df9-d964-4f5b-8aa2-b1255f957c47)
+![image](https://github.com/user-attachments/assets/3b7ac2fc-93a5-46c9-b71e-6a3a6ad284b0)
+![image](https://github.com/user-attachments/assets/59c97800-3ef2-46ae-9f26-97e039e84905)
+
+
+
+
